@@ -4,7 +4,7 @@
 
 
 [submodule "pixel-excavators"]
-  path = pixel-excavators 
+  path = task-manager-landing 
   url = https://github.com/itsayushk19/pixel-excavators.git
 
 [submodule "task-manager-landing"]
